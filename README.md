@@ -1,4 +1,3 @@
-Project Overview
 This project analyses user engagement and retention patterns for the Google Merchandise Store using Google Analytics 4 (GA4) demo data. The analysis simulates a real-world business scenario where a data analyst is tasked with understanding user behaviour, identifying drop-off points, and recommending strategies to improve retention.
 Tools Used
 
